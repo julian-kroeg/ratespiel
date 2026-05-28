@@ -9,6 +9,7 @@ Ein kurzes Zahlenratespiel, bei welchem Sie eine zufällige Zahl erraten müssen
 
 ## Programmiersprache
 - Python
+- Der Code ist oben hinterlegt
 
 ## Programm starten
 Die ausführbare Anwendung befindet sich im Ordner /dist
